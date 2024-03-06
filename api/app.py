@@ -69,5 +69,3 @@ def a(evt):
   enabled = False
 
 keyboard.on_press_key('s', a)
-
-app.run()
